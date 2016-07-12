@@ -1,0 +1,6 @@
+## Interface: 60200
+## Version: 1.0.0
+## Title: TotemTimers
+## Author: Kabrank (Dreanor EU)
+## Notes: Moveable Totem Timers
+TotemTimers.lua
